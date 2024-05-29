@@ -1,1 +1,1 @@
-# Adapting-Gaussian-Mixture-Model-Training-to-Embedded-Edge-Devices-a-Low-I-O-PIGMMaLIOnde
+# Adapting Gaussian Mixture Model Training PIGMMaLIOnde
